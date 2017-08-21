@@ -4,7 +4,7 @@
 # PLEASE DO NOT EDIT IT DIRECTLY.
 #
 
-FROM debian:stretch-slim
+FROM gcr.io/google-containers/debian-base-amd64:0.1
 
 # A few reasons for installing distribution-provided OpenJDK:
 #
